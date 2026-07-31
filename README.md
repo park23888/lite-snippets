@@ -1,0 +1,2 @@
+# lite-snippets
+cli project
